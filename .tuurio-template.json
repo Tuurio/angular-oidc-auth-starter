@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "sourceRepository": "Tuurio/auth_samples",
+  "sourcePath": "auth_samples_angular",
+  "sourceSha": "b7582d09518ce261a97ce8daaaf52a636b4eb60f",
+  "templateId": "angular",
+  "managedFiles": [
+    {
+      "path": ".env.example",
+      "sha256": "ff03f6ab850f4a861b3d4cf08f16b2c6bfb392c1281095c3eff291dee881da89"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "sha256": "f4febbe5b94ea41cd85203d80be21c37589f6bef8b3d9bc8cb9f4b14d9e5d52b"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "20679594d27be0673d8aa40b6df1e156e19d9bf86c1958ee0922641a2521a940"
+    },
+    {
+      "path": ".stackblitzrc",
+      "sha256": "dec25debfb7465d6808fb6bdaa36f347c8d8d3104dd180052383679b937ddbd8"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "94bace22a6f54f756dbbd6788401f675360571297be31230c34f8240212a858c"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "README.md",
+      "sha256": "5e646935cf19cdb4f437f4a9ed544ed95fe334cce8e9684140d3bd4b531dd24f"
+    },
+    {
+      "path": "angular.json",
+      "sha256": "ac324fca34329d1ac2dee2eaec378e2cba8e4f974cef5c39165d6b871c734cb7"
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "3b9722a5466692959d19623e6563278d7a2a08cfa6ab1c0060f1b22094fe00f6"
+    },
+    {
+      "path": "package.json",
+      "sha256": "62c34e3e12d9456622c3b37676a28ce3136e64a0d4ee19b155adafa4503e8ac3"
+    },
+    {
+      "path": "scripts/sync-env.mjs",
+      "sha256": "a0fe5a9deb6a4bd08d02da9f5d6c3a8e5904d7509881f214168249997c5d16b8"
+    },
+    {
+      "path": "src/app/app.component.ts",
+      "sha256": "a1030fafdf1cf73124ac61747bea21b176ef889e9a3ac923e37f7700e66c9bc0"
+    },
+    {
+      "path": "src/app/app.config.ts",
+      "sha256": "3187bb14eb295e3c0dd68bbf283eb5b8b72dc8bca9ed928126e6748d48a1e62f"
+    },
+    {
+      "path": "src/app/app.routes.ts",
+      "sha256": "966c38c2105ad0577fb5cd6ad6643e8960dd9b8af0ab4f0b01aa37f303a3c903"
+    },
+    {
+      "path": "src/app/auth/auth.config.generated.ts",
+      "sha256": "1928b85d4eb9977b92a030e4a6a11f60d145c51af04883e288efdf8d24438b05"
+    },
+    {
+      "path": "src/app/auth/auth.config.ts",
+      "sha256": "b4e67976f0ba3bdce3726e670444a61fd264abe615a18ef5d00075174f5015b0"
+    },
+    {
+      "path": "src/app/auth/auth.service.ts",
+      "sha256": "b4eb4566b827a9cd2f2c4edb098a28492e76cc4e42b1e2ac504704e10f6981ef"
+    },
+    {
+      "path": "src/app/auth-callback/auth-callback.component.ts",
+      "sha256": "f0ae22bcbcdfbf5a10983dc8f6d3ef20fe99ce491f2c193e88c2542cb3b6f4b0"
+    },
+    {
+      "path": "src/app/components/card/card.component.ts",
+      "sha256": "147e438eca89c0f90911b51fa914290cf5b3cfb47e922e83e4bcfe7641541229"
+    },
+    {
+      "path": "src/app/components/feature/feature.component.ts",
+      "sha256": "f39d83a05ba7d48b34bb318954fbcb6130d5004e34e294fe614a2839cd54f609"
+    },
+    {
+      "path": "src/app/components/loading-state/loading-state.component.ts",
+      "sha256": "ff6a06194d986fc512355a2cf4f14677f70ec65a25bf0c3649f3ca92c9564568"
+    },
+    {
+      "path": "src/app/components/login-view/login-view.component.ts",
+      "sha256": "b5c0a2315d5fe5df047ab2c606f98fc994141c9e4ea48bee6b63d6c026592243"
+    },
+    {
+      "path": "src/app/components/shell/shell.component.ts",
+      "sha256": "e4508de8c617165486b6e96fdda6e00814cdeb6f40f4855bbaf0fdc72d857187"
+    },
+    {
+      "path": "src/app/components/token-view/token-view.component.ts",
+      "sha256": "e93f9e97bc23a5819b06455717f5dea78d553a782ebe80a3514f2028abd41210"
+    },
+    {
+      "path": "src/app/home/home.component.ts",
+      "sha256": "ca661151d5ec308489ff6bbc3d461c0577fa76f06de315e1ad69c04a822b12da"
+    },
+    {
+      "path": "src/app/logout-callback/logout-callback.component.ts",
+      "sha256": "22277ad807cde2614c122b64ab1e70c98d597e744ed8f46b59527cbad675cf19"
+    },
+    {
+      "path": "src/app/not-found/not-found.component.ts",
+      "sha256": "e039ce902636157d8022bbee452e2a1045cab8d1c99cbb776c672a315891a838"
+    },
+    {
+      "path": "src/index.html",
+      "sha256": "9b12b3e10f656ca9fb26eeaaea9dbf4becbc48ab944fe7cbf5e007292e0fd402"
+    },
+    {
+      "path": "src/main.ts",
+      "sha256": "46f7ca8182fa9211d878061d807c56845387b1128ba1c0055efa6de38891c996"
+    },
+    {
+      "path": "src/styles.css",
+      "sha256": "a2601168758cbbdafe30ae8b87971eae5b0ae175cc8ad750b670c4968f37939c"
+    },
+    {
+      "path": "tsconfig.app.json",
+      "sha256": "5f4183f0947c9a412d936e7ae2a5967d5692a0c9952325f9e8050fccb135d82a"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "96de01e44d4c25259b538b5fb7be26affd0974fbed6a582b916b10f149dfa0a4"
+    }
+  ]
+}
