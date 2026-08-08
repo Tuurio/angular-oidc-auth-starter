@@ -2,13 +2,21 @@
   "schemaVersion": 2,
   "sourceRepository": "Tuurio/auth_samples",
   "sourcePath": "auth_samples_angular",
-  "sourceSha": "fd87414e420b10fc0ca59d5552595d1b51be6230",
-  "packageSha256": "761ac55b574f10098403618d0714d10582af8784ff501104547592be0cdd320c",
+  "sourceSha": "ee751281bb9cedc2d269c3e21e6e0d544cf2cbf8",
+  "packageSha256": "5a43ab96063f540e55f789a0a1c1c9899ee3f7087ce3276d9545acef18bdd576",
   "templateId": "angular",
   "managedFiles": [
     {
       "path": ".env.example",
       "sha256": "ff03f6ab850f4a861b3d4cf08f16b2c6bfb392c1281095c3eff291dee881da89"
+    },
+    {
+      "path": ".github/social-preview.png",
+      "sha256": "6e8a7d6cda5254da06668dd948d4365f54f40ee0987d86944bc3925ae0144712"
+    },
+    {
+      "path": ".github/social-preview.svg",
+      "sha256": "9ca26bca735c58e85f7beb0b9ab710dc271ed41ec54f187adc0f6efaa53fe0a7"
     },
     {
       "path": ".github/workflows/verify.yml",
@@ -32,7 +40,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "5e646935cf19cdb4f437f4a9ed544ed95fe334cce8e9684140d3bd4b531dd24f"
+      "sha256": "7d2848f2cd228212e483f261b2ae314caff0d6a74ffee84810972d64f6cc29bf"
     },
     {
       "path": "angular.json",
